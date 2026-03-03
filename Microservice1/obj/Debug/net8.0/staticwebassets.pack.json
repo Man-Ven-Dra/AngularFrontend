@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\manvendra.chauhan\\Desktop\\CodeFiles\\AngularProj\\Frontend\\Microservice1\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\manvendra.chauhan\\Desktop\\CodeFiles\\AngularProj\\Frontend\\Microservice1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\manvendra.chauhan\\Desktop\\CodeFiles\\AngularProj\\Frontend\\Microservice1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\manvendra.chauhan\\Desktop\\CodeFiles\\AngularProj\\Frontend\\Microservice1\\wwwroot\\main-MHJ4BGQL.js",
+      "PackagePath": "staticwebassets\\main-MHJ4BGQL.js"
+    },
+    {
+      "Id": "C:\\Users\\manvendra.chauhan\\Desktop\\CodeFiles\\AngularProj\\Frontend\\Microservice1\\wwwroot\\prerendered-routes.json",
+      "PackagePath": "staticwebassets\\prerendered-routes.json"
+    },
+    {
+      "Id": "C:\\Users\\manvendra.chauhan\\Desktop\\CodeFiles\\AngularProj\\Frontend\\Microservice1\\wwwroot\\styles-5INURTSO.css",
+      "PackagePath": "staticwebassets\\styles-5INURTSO.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Microservice1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Microservice1.props",
+      "PackagePath": "build\\Microservice1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Microservice1.props",
+      "PackagePath": "buildMultiTargeting\\Microservice1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Microservice1.props",
+      "PackagePath": "buildTransitive\\Microservice1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
